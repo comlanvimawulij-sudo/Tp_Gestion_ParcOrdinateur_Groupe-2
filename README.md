@@ -19,5 +19,5 @@ Code::Blocks
 
 ## Fichiers
 - ordinateur.h
-- gestionParcOrdinateurs.c
+- Ordinateurs.c
 - main.c
