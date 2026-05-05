@@ -1,3 +1,5 @@
+# Les fichiers constituant le dernier rendu sont ceux uploader les plus récemment. Merci 
+
 # Gestion Parc Ordinateurs - Groupe 2
 # améliorations effectuées, destinées au second rendu de ce projet.
 ## Membres
