@@ -1,5 +1,5 @@
 # Gestion Parc Ordinateurs - Groupe 2
-
+# améliorations effectuées, destinées au second rendu de ce projet.
 ## Membres
 - COMLANVI Mawuli Jean-Pierre (GC)
 - N'DJADA Essoninam (IABD)
